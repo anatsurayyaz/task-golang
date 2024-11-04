@@ -1,3 +1,5 @@
 #Project Task Git
 
-nama : Ana
+nama saya Ana Tsurayya Zakiya
+
+mari berjuang hari ini, untuk esok yang lebih baik!!
