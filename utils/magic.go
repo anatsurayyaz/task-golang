@@ -43,7 +43,7 @@ func MagicGrade(n int) string {
 
 // MagicName returns a slice of strings containing [yourname] repeated n times
 func MagicName(n int) []string {
-	name := "Ana" // Replace with your actual name if needed
+	name := "Anisa" // Replace with your actual name if needed
 	return strings.Split(strings.Repeat(name+",", n), ",")[:n]
 }
 
